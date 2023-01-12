@@ -164,7 +164,7 @@
 }
 
 .table_theme_dark {
-  margin-top: 90px;
+  margin-top: 80px;
   row-gap: 80px;
 }
 
@@ -232,7 +232,7 @@ margin: 0;
   font-size: 36px;
   font-weight: normal;
   text-align: center;
-  margin: 20px 0 0;
+  margin: 70px 0 0;
 }
 
 .feynman__link {
@@ -247,6 +247,7 @@ margin: 0;
 }
 
 .kaufman {
+  overflow: hidden;
   position: relative;
   background-color: #1F1F1F;
   padding-top: 90px;
@@ -263,7 +264,7 @@ margin: 0;
   position: absolute;
   z-index: -1;
   top: 0;
-  right: -140px;
+  right: -120px;
 }
 
 .footer {
